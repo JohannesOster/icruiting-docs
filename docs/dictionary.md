@@ -20,10 +20,10 @@ Ein Formular ist eindeutig einer _Stelle_ zugeordnet und ist aus einer der folge
 
 **Formularfeld:** Ein einzelnes Feld eines Formulars. **Achtung:** Nicht nur Eingabefelder sondern auch statische Felder wie zum Beispiel ein _Section Header_ werden als _Formularfeld_ bezeichnet.
 
-**Formularfeld-Absicht:** Eine aus drei Möglichkeiten der Auswertung: _count distinct_, _aggregate_, _sum up_ \
-**count distinct:** In der Auswertung wird gezählt wie oft jeder mögliche Wert vorkommt. (z.B. Ich will diesen\*diese Bewerber\*in besprechen: Ja: 3, Nein: 2)\
-**aggregate:** In der Auswertung werden die Werte aller Formulareintragsfelder, welche dieses Formularfeld referenzieren aneinander gereiht. (z.B. Anmerkungen)\
-**sum up:** In der Auswertung werden die Werte alle Formulareintragsfelder, welche dieses Formularfeld referenzieren mathematisch ausgewertet berechnet.
+**Formularfeld-Absicht:** Eine aus drei Möglichkeiten der Auswertung: _auszählen_, _auflisten_, _auswerten_ \
+**auszählen:** In der Auswertung wird gezählt wie oft jeder mögliche Wert vorkommt. (z.B. Ich will diesen\*diese Bewerber\*in besprechen: Ja: 3, Nein: 2)\
+**auflisten:** In der Auswertung werden die Werte aller Formulareintragsfelder, welche dieses Formularfeld referenzieren aneinander gereiht. (z.B. Anmerkungen)\
+**auswerten:** In der Auswertung werden die Werte alle Formulareintragsfelder, welche dieses Formularfeld referenzieren mathematisch ausgewertet.
 
 ## Formulareintrag
 
